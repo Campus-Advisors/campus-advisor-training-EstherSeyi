@@ -12,5 +12,7 @@ Please follow the steps below:
 5. On your local repository (on your computer) of the `Campus-Advisor_Training` repository, which we cloned in the last assignment,
 fetch and merge this change into your master branch on the command line.
 
+Esther Oluwaseyi
+
 Take a screenshot of your command line showing that you have fetched and merged these changes
 and upload your screenshot to a new Issue titled `Module 2.2 Assignment`.
